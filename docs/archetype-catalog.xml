@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog
+        xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 https://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd">
+    <archetypes>
+        <archetype>
+            <groupId>cn.bugstack.ai</groupId>
+            <artifactId>ai-agent-scaffold-archetype</artifactId>
+            <version>1.0</version>
+            <repository>https://packages.aliyun.com/6995e7ea9df7fdfa6546814d/maven/2643224-release-kpalsk</repository>
+            <description>AI Agent 多模块项目 Maven Archetype 脚手架</description>
+        </archetype>
+    </archetypes>
+</archetype-catalog>
